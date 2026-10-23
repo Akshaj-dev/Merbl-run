@@ -16,7 +16,9 @@ The marble travels through the track using gravity, moving along the spiral and 
 The original concept was developed into a more detailed 3D model. Additional features, including a detachable cup holder and umbrella, were introduced to improve the design's appearance and versatility.
 
 ## Project Images
-![Merbl-run 3D model](marble-run.png)
+![Merbl-run 3D model](marble-run.png) 
+<img width="553" height="537" alt="image" src="https://github.com/user-attachments/assets/ff842b02-9b90-4bd4-837c-1df51d0ae7e0" />
+<img width="623" height="542" alt="image" src="https://github.com/user-attachments/assets/f9def8eb-c655-456b-9af4-dd8848b2813e" />
 
 ## Files
 This repository contains the project documentation, CAD source files and, where available, printable model files.
